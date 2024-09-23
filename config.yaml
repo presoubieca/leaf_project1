@@ -1,0 +1,6 @@
+path: C:\Users\Gamer\farm_prototype\leaf_doctor\leaves_2-3
+train: train\images
+val: valid\images
+
+names:
+  0: leaf
